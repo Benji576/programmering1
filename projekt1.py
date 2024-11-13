@@ -21,7 +21,7 @@ while True:
 
 
     tries = 7
-    number = random.randint(1,100) #This one exists so that the code generates a random number between 1 and 100
+    number = random.randint(1,100)
 
 
     while tries >= 0:
