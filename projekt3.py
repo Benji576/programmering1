@@ -144,4 +144,5 @@ def play(): #Funktionen här gör så att spelet startar
 
 if __name__ == '__main__':
    show_start_screen()  #Visar start skärmen för spelet
+   sleep(2.25)   #Gör så att den väntar 2.25 sekunder innan instruktionerna printas
    play()     #Startar funktionen som spelar
